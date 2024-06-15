@@ -1,0 +1,30 @@
+/* Navigation Bar Styles */
+.nav-bar {
+    background-color: #333;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-bar-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.nav-bar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.nav-bar-brand a {
+    color: #fff;
+    text-decoration: none;
+}
